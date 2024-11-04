@@ -29,6 +29,7 @@ def calc_fitness(individual, interest: str):
             total_interest = 0
 
     return total_interest
+
 #tournament
 def parent_selection(population, interest):
     fitness_vals = [calc_fitness(individual, interest) for individual in population]
