@@ -7,7 +7,7 @@ data = pd.read_csv('food.csv', index_col=0)
 # Genetic Algorithm parameters
 population_size = 100
 mutation_rate = 0.1
-num_generations = 2
+num_generations = 100
 limit = 50
 
 def create_individual():
