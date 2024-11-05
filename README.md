@@ -1,6 +1,6 @@
 # Nutri_vals
 
-A project of mine, which main reason is to practice GA-s in a useful context, and to practice python and pandas overall.
+A project of mine, which main reason is to practice GA-s in a useful context, and to practice python and pandas.
 
 The main idea is to use GA to determine an optimal list for grocery shopping, considering the price 
 and the macronutrient you are interested in, in my specific case the protein content / 100g
